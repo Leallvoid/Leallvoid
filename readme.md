@@ -6,7 +6,7 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leallvoid" />
 </p>
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Leallvoid&theme=dracula)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Leallvoid)
 
 ![github img](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif)
 =======
