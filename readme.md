@@ -8,4 +8,4 @@
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Leallvoid&theme=dracula)
 
-![github img](https://github.com/dongyuanwai/readme-become-better/blob/main/images/giphy2.gif?raw=true)
+![github img](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif)
